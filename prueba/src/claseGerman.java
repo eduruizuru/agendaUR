@@ -1,7 +1,7 @@
 
 public class claseGerman {
-	//dasdasd
-	
-
+	public void metodo1(){
+		
+	}
 
 }
